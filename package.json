@@ -1,0 +1,23 @@
+{
+  "name": "acp-project",
+  "version": "1.0.0",
+  "description": "I am creating this project for practicing ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tabinda-Hassan/ACP-Programs.git"
+  },
+  "keywords": [
+    "MERN",
+    "CRUD"
+  ],
+  "author": "Tabinda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tabinda-Hassan/ACP-Programs/issues"
+  },
+  "homepage": "https://github.com/Tabinda-Hassan/ACP-Programs#readme"
+}
