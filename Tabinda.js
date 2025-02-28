@@ -6,3 +6,4 @@ const port = 3000;
     res.send(`Welcome! It's good to see you${name}`)
  })
 
+console.log(`Running at http://localhost${port}`)
